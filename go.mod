@@ -115,7 +115,7 @@ replace (
 	github.com/blang/semver => github.com/blang/semver v3.5.0+incompatible
 	github.com/bshuster-repo/logrus-logstash-hook => github.com/bshuster-repo/logrus-logstash-hook v0.4.1
 	github.com/cespare/xxhash/v2 => github.com/cespare/xxhash/v2 v2.1.1
-	github.com/containerd/containerd => github.com/containerd/containerd v1.3.0
+	github.com/containerd/containerd => github.com/containerd/containerd v1.4.13
 	github.com/containerd/continuity => github.com/containerd/continuity v0.0.0-20181203112020-004b46473808
 	github.com/coreos/go-systemd => github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f
 	github.com/creack/pty => github.com/creack/pty v1.1.7
