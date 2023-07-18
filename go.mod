@@ -1,6 +1,6 @@
 // This is a generated file. Do not edit directly.
 
-module kubesphere.io/utils
+module github.com/mensylisir/utils
 
 go 1.19
 
